@@ -1,0 +1,62 @@
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-secondary{
+    height: 6rem;
+    width: 12rem;
+}
+
+.numero {
+    display: grid;
+    font-size: 3rem;
+    margin: 0;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.corr{
+font-size: 1rem;
+color: green;
+}
+
+.inc{
+    font-size: 1rem;
+color: red;
+}
+
+.menu{
+    padding-top: 2rem;
+
+}
+
+.opciones{
+    display: grid;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.h2menu{
+    display: grid;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+
+.alert-dark{
+margin-top: 2rem ;
+}
+
+
